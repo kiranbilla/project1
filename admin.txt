@@ -1,3 +1,4 @@
 hi this is admin properties for this colour
 test for git
 
+hi iam from guntur
